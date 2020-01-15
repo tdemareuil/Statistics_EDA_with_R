@@ -1,4 +1,4 @@
-# Statistics_homework_maths_R
+# Statistics_EDA_with_R
 
 This is the midterm project in my Statistics class at Ecole Polytechnique (MSc Data Science, 2019-2020).
 
